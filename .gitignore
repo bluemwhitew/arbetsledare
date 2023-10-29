@@ -1,0 +1,21 @@
+# See https://help.github.com/articles/ignoring-files
+
+# IDE
+.idea/
+
+# Local
+.env*.local
+
+# Next
+.next/
+
+# NPM
+node_modules/
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
